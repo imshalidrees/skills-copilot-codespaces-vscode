@@ -1,9 +1,6 @@
 // Create a web server
-// Create a route for GET /comments
-// Create a route for POST /comments
-// Create a route for GET /comments/:id
-// Create a route for PUT /comments/:id
-// Create a route for DELETE /comments/:id
-// Create a route for POST /comments/:id/vote-up
-// Create a route for POST /comments/:id/vote-down
-// Create a route for POST /comments/:id/vote-reset
+// Create a route that returns all comments
+// Create a route that returns all comments for a specific post
+// Create a route that returns all comments for a specific user
+// Create a route that returns all comments from a specific user on a specific post
+// Create a route that returns the most popular post based on the number of comments
